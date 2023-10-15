@@ -25,7 +25,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "http://eleonora33.github.io/my-project-portfolio-react",
+    "homepage": "https://eleonora33.github.io/eleonora33.github.io-my-project-portfolio-react/",
     "start": "react-scripts start", 
     "test": "react-scripts test",
     "eject": "react-scripts eject",
