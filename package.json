@@ -18,7 +18,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.47.0",
     "react-popupbox": "^2.0.9",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-scroll": "^1.9.0",
     "react-share": "^4.4.1",
     "react-typed": "^1.2.0",
@@ -26,7 +26,7 @@
   },
   "scripts": {
     "homepage": "https://eleonora33.github.io/eleonora33.github.io-my-project-portfolio-react/",
-    "start": "react-scripts start", 
+    "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
