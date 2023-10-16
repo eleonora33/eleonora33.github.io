@@ -2,6 +2,7 @@
   "name": "portfolio-project-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eleonora33.github.io/eleonora33.github.io-my-project-portfolio-react/",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
@@ -25,12 +26,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://eleonora33.github.io/eleonora33.github.io-my-project-portfolio-react/",
-    "start": "react-scripts start",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
